@@ -42,3 +42,4 @@ The process above optimizes a deep, fully-connected, multi-layer perceptron (MLP
 
 
 ## SAMPLE RESULTS FROM TRAINING(~36hr training config)
+![](https://github.com/simranansh19/NeRF/tree/main/results/fern_output_AdobeCreativeCloudExpress.gif)
