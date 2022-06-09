@@ -41,4 +41,4 @@ This helps us to generate the input vector for different projections of a custom
 The process above optimizes a deep, fully-connected, multi-layer perceptron (MLP) but does not require using convolutional layers. It uses gradient descent to minimize errors between each observed image and all corresponding views rendered from the representation.
 
 
-## SAMPLE RESULTS FROM TRAINING(36hr TESLA V100)
+## SAMPLE RESULTS FROM TRAINING(~36hr training config)
