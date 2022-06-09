@@ -57,6 +57,8 @@ The process above optimizes a deep, fully-connected, multi-layer perceptron (MLP
   <li><b>It can be used for Human Modelling</li>
  </ul>
  
-![Human_modelling_AdobeExpress](https://user-images.githubusercontent.com/56038663/172765906-89e8e619-340b-42b6-b0a2-85c45317c528.gif)  
+![sacre_AdobeExpress](https://user-images.githubusercontent.com/56038663/172766768-4d31180d-9173-4be7-ae74-c6910a587b88.gif) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Human_modelling_AdobeExpress](https://user-images.githubusercontent.com/56038663/172765906-89e8e619-340b-42b6-b0a2-85c45317c528.gif)
+
+![nerv_results_AdobeExpress](https://user-images.githubusercontent.com/56038663/172766806-d8758df7-30c0-4b5f-bf4b-acfda8c8e10b.gif)
 
 
