@@ -42,5 +42,21 @@ The process above optimizes a deep, fully-connected, multi-layer perceptron (MLP
 
 
 ## SAMPLE RESULTS FROM TRAINING(~36hr training config)
-![AltText](https://camo.githubusercontent.com/2c1d3f539c2c3b0e67023599847c1b6ed4e47f3a5fd400c0f48ec815cd4e8e73/68747470733a2f2f70656f706c652e656563732e6265726b656c65792e6564752f7e626d696c642f6e6572662f6665726e5f3230306b5f323536772e676966)
+
+![fern_output_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/56038663/172764877-62fe00b9-eceb-4c99-9b37-0f8904b1ba6d.gif)
+
+
+
+## APPLICATIONS OF NeRF
+<ul>
+  <li><b>Lots of tourists take lots of photographs. And these photographs can be used to render complex photorealistic scenes.</li>
+  <li><b>Recently, NeRF has been extended to NR-NeRF (non-rigid NeRF). While NeRF is used for photorealistic appearance and geometry reconstruction of static scenes, NR-NeRF deals with non-rigid dynamic scenes.</li>
+  <li><b>NeRF is good with complex geometries and deals with occlusion well.</li>
+  <li><b>It can be used to generate mesh view of an object.</li>
+  <li><b>Relighting: We extend NeRF to enable the rendering of scenes from novel viewpoints under arbitrary lighting conditions.</li>
+  <li><b>It can be used for Human Modelling</li>
+ </ul>
+ 
+![Human_modelling_AdobeExpress](https://user-images.githubusercontent.com/56038663/172765906-89e8e619-340b-42b6-b0a2-85c45317c528.gif)  
+
 
